@@ -1,0 +1,21 @@
+title: silver-6 Portfolio
+description: Full Stack Developer | Open Source Enthusiast
+author: silver-6
+url: https://silver-6.github.io/portfolios
+theme: jekyll-theme-minimal
+plugins:
+  - jekyll-seo-tag
+  - jekyll-feed
+
+# Navigation
+header_pages:
+  - index.html
+
+# Social media links
+github_username: silver-6
+twitter_username: null
+
+# Build settings
+markdown: kramdown
+kramdown:
+  input: GFM
